@@ -20,8 +20,8 @@ This project demonstrates both hardware and software design through real-time gr
 
 
 ##  Team
-Ryan Martin 
-Rohit Bhardwaj
+- Ryan Martin 
+- Rohit Bhardwaj
 
 
 ## License

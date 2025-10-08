@@ -29,6 +29,6 @@ This project is under Simon Fraser University’s ENSC course.
 
 
 <p align="center">
-  <img width="723" height="80" alt="image" src="https://github.com/user-attachments/assets/295ef995-dbca-40f4-b9ae-30f725eb11cd" />
+  <img width="540" height="314" alt="image" src="https://github.com/user-attachments/assets/b240edc3-7cab-4611-bdbd-ab02b9807f3b" />
 </p>
 <p align="center"><em>Screenshot of the 9-Ball mode running on the Zynq-7000 board.</em></p>

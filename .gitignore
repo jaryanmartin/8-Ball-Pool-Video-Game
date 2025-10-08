@@ -1,0 +1,36 @@
+# Vivado/Vitis build and temp files
+*.log
+*.jou
+*.str
+*.wdb
+*.vcd
+*.bit
+*.bin
+*.elf
+*.o
+*.exe
+*.tmp
+*.bak
+*.xpr
+*.xsa
+*.sdk
+*.hwdef
+
+# Vivado/Vitis project folders
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.sdk/
+vivado.*
+vitis.*
+
+# C/C++ build artifacts
+*.out
+*.obj
+*.a
+*.so
+*.dSYM/
+
+# macOS system files
+.DS_Store

@@ -1,0 +1,10 @@
+TRACE::2025-04-04.02:33:25::SCWBifWriter::Found the complete platform U:/ENSC452/FinalStage/Rohit_8ball_plat/export/Rohit_8ball_plat/Rohit_8ball_plat.xpfm
+TRACE::2025-04-04.02:33:29::SCWBifWriter::hardware databse : ip_design_wrapper_50
+TRACE::2025-04-04.02:33:29::SCWBifWriter::bitstream found in the design
+TRACE::2025-04-04.02:33:29::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2025-04-04.02:33:29::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_1
+TRACE::2025-04-04.02:33:29::SCWBifWriter::proc type : 
+TRACE::2025-04-04.02:33:29::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2025-04-04.02:33:29::SCWBifWriter::Device type is : zynq
+TRACE::2025-04-04.02:33:29::SCWBifWriter::Writing BIF to file : U:/ENSC452/FinalStage/452Proj_app_system/_ide/bootimage/template_452Proj_app_system.bif
+TRACE::2025-04-04.02:33:29::SCWBifWriter::Writing the Zynq Baremetal bif 

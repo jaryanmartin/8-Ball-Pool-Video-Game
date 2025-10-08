@@ -1,0 +1,37 @@
+{
+  "version": "2020.2",
+  "applications": [],
+  "platforms": [
+    {
+      "name": "Rohit_8ball_plat"
+    }
+  ],
+  "systems": [
+    {
+      "name": "452Proj_app_system",
+      "platform": "U:/ENSC452/FinalStage/Rohit_8ball_plat/export/Rohit_8ball_plat/Rohit_8ball_plat.xpfm",
+      "sysConfig": "Rohit_8ball_plat",
+      "buildConfig": "Debug",
+      "applications": [
+        {
+          "name": "452Proj_video",
+          "platform": "U:/ENSC452/FinalStage/Rohit_8ball_plat/export/Rohit_8ball_plat/Rohit_8ball_plat.xpfm",
+          "platformPath": "U:\\ENSC452\\FinalStage\\Rohit_8ball_plat\\export\\Rohit_8ball_plat",
+          "sysConfig": "Rohit_8ball_plat",
+          "domain": "standalone_domain",
+          "system": "452Proj_app_system"
+        },
+        {
+          "name": "452Proj_audio",
+          "platform": "U:/ENSC452/FinalStage/Rohit_8ball_plat/export/Rohit_8ball_plat/Rohit_8ball_plat.xpfm",
+          "platformPath": "U:\\ENSC452\\FinalStage\\Rohit_8ball_plat\\export\\Rohit_8ball_plat",
+          "sysConfig": "Rohit_8ball_plat",
+          "domain": "ps7_cortexa9_1",
+          "system": "452Proj_app_system"
+        }
+      ],
+      "platformPath": "U:\\ENSC452\\FinalStage\\Rohit_8ball_plat\\export\\Rohit_8ball_plat"
+    }
+  ],
+  "others": []
+}
